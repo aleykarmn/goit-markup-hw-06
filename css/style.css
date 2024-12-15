@@ -160,7 +160,7 @@ img {
   justify-content: center;
   gap: 48px;
 }
-/* Effective Solutions for Your Business*/
+
 .hero .title {
   margin-bottom: 48px;
   font-size: 56px;
@@ -195,7 +195,7 @@ img {
 .hero .btn:focus {
   background-color: #404bbf;
 }
-/* * All Section Style */
+
 
 section {
   padding-top: 120px;
@@ -293,7 +293,7 @@ section .section-title {
   color: #2e2f42;
   text-transform: capitalize;
 
-  /* text-align: center; */
+
 }
 .container .section-list .section-item .description,
 .container .section-list .section-item .section-content .description {
@@ -301,7 +301,7 @@ section .section-title {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  /* text-align: center; */
+
 }
 footer .social .social-list,
 .container .section-list .section-item .section-content .social-list {
@@ -374,14 +374,14 @@ footer .social .social-list .social-item .social-link svg.svg,
   height: 24px;
 }
 
-/* Features */
+
 .features .container .section-list .section-item {
   display: flex;
   flex-direction: column;
   gap: 8px;
   box-shadow: none;
 }
-/* Team */
+
 .team {
   background-color: #f4f4fd;
 }
@@ -397,7 +397,6 @@ footer .social .social-list .social-item .social-link svg.svg,
   text-align: center;
 }
 
-/* Portfolio */
 .portfolio .container .section-list {
   display: flex;
   flex-wrap: wrap;
@@ -725,7 +724,7 @@ footer .form-container .button .icon {
   display: none;
 }
 
-/* Tablet */
+/* Tablett */
 @media (min-width: 768px) and (max-width: 1158px) {
   .container {
     width: 100%;
